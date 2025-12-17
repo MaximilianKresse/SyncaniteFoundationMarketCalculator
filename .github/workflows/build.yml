@@ -28,5 +28,5 @@ jobs:
         run: npm run build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
-        env:
+        with:
           folder: dist/spa
