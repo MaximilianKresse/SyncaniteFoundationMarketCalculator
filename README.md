@@ -1,6 +1,8 @@
-# Syncanite Foundation Market Calculator (syncanite-foundation-market-calculator)
+# Syncanite Foundation Market Calculator
 
 A simple calculator helper for the market of the board game [Syncanite Foundation](https://arkaniteproductions.de/syncanite-foundation/)
+
+Link: [Github Pages](https://maximiliankresse.github.io/SyncaniteFoundationMarketCalculator/)
 
 ## Install the dependencies
 
