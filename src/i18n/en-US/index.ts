@@ -1,5 +1,5 @@
 export default {
-  moneyValue: 'Money value',
+  moneyValue: 'Capital value',
   food: 'Food',
   syncanite: 'Syncanite',
   goods: 'Goods',
